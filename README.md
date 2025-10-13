@@ -1,5 +1,6 @@
 # 🎨 ArtConnect
 > AI를 통해 똑부러지게 소상공인과 디자이너를 매칭하는 플랫폼 ArtConnect입니다.
+> - [ArtConnect 소개자료 바로가기](https://github.com/wonotter/art-connect-backend/blob/main/docs/ArtConnect_%EC%86%8C%EA%B0%9C%EC%9E%90%EB%A3%8C.pdf)
 
 # 📜 아키텍처 설계 & API 명세서
 주요 아키텍처 설계와 API 명세서는 노션에 별도로 작성하였습니다.
